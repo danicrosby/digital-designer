@@ -18,16 +18,16 @@ h1 {
 }
 
 .page-container {
-  border: 1px solid darkgrey;
+  border: 1px solid darkrgb(235, 235, 235);
 }
 
 .welcome-page{
   background: linear-gradient(
     to bottom,
-    lightgrey 0%,
-    lightgrey 50%,
-    grey 50%,
-    grey 100%
+    white 0%,
+    white 50%,
+    rgb(235, 235, 235) 50%,
+    rgb(235, 235, 235) 100%
   );
 
   display: flex;
@@ -50,14 +50,16 @@ h1 {
 .intro-page{
   background: linear-gradient(
     to bottom,
-    lightgrey 0%,
-    lightgrey 50%,
-    grey 50%,
-    grey 100%
+    white 0%,
+    white 50%,
+    rgb(235, 235, 235) 50%,
+    rgb(235, 235, 235) 100%
   );
 
   display: flex;
   justify-content: center;
 }
 
-
+figure {
+  width: 14em;
+}
