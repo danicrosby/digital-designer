@@ -60,6 +60,10 @@ h1 {
   justify-content: center;
 }
 
+.intro-left-container, .intro-right-container {
+  width: 50%;
+}
+
 figure {
-  width: 14em;
+  width: 9em;
 }
