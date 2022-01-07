@@ -1,0 +1,9 @@
+.nav-content-container {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border: 1px solid green;
+  padding: 0em 0em 2em 0em;
+}
+
+.page-containers {
+  border: 1px solid darkgrey;
+}
