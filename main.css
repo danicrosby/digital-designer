@@ -67,3 +67,23 @@ h1 {
 figure {
   width: 9em;
 }
+
+.p5-a {
+  text-align: center;
+  padding-left: 3em;
+  padding-right: 3em;
+  padding-top: 8em;
+}
+
+.p5 {
+  font-size: 3em;
+  border-top: 2px solid black;
+  line-height: 1.3em;
+  margin-top: 6em;
+  padding-top: 1em;
+}
+
+.p6 {
+  padding-left: 2em;
+  padding-right: 2em;
+}
