@@ -21,7 +21,7 @@ h1 {
   border: 1px solid darkgrey;
 }
 
-.welcome-page {
+.welcome-page{
   background: linear-gradient(
     to bottom,
     lightgrey 0%,
@@ -46,3 +46,18 @@ h1 {
   text-align: center;
   padding: 0em 12em;
 }
+
+.intro-page{
+  background: linear-gradient(
+    to bottom,
+    lightgrey 0%,
+    lightgrey 50%,
+    grey 50%,
+    grey 100%
+  );
+
+  display: flex;
+  justify-content: center;
+}
+
+

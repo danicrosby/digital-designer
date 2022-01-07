@@ -18,4 +18,6 @@
 - [Dani Crosby](https://github.com/danicrosby)
 
 #### Avatar Photo Credit: 
-- [César Rincón ](https://unsplash.com/@cesarfrv93)
+- [César Rincón](https://unsplash.com/@cesarfrv93)
+- [Ellieelien](https://unsplash.com/@ellienelie)
+- [Windows](https://unsplash.com/@windows)
