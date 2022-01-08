@@ -13,8 +13,8 @@ h1 {
 }
 
 .content-wrapper {
+  padding: 0em;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  padding: 2em 0em;
 }
 
 .page-container {
