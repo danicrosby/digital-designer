@@ -1,18 +1,16 @@
-* {
-  padding: 0;
-  margin: 0;
-}
-
-body {
-  padding: 2em 18em;
-}
-
 h1 {
   padding-top: 1em;
   letter-spacing: 3px;
 }
 
+body {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
 .content-wrapper {
+  margin: 2em 18em;
   padding: 0em;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
@@ -58,10 +56,6 @@ h1 {
 
   display: flex;
   justify-content: center;
-}
-
-.intro-left-container, .intro-right-container {
-  width: 50%;
 }
 
 figure {
