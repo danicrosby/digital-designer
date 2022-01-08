@@ -5,20 +5,20 @@
 
 
 ## Relevant Links
-- [Deployed Site](digital-designer-mock-site.netlify.app)
-- [Wireframes](https://www.figma.com/file/ZgmFzHFVDoEJx3iAOEx4im/Untitled?node-id=0%3A1)
-- [Project Board](https://github.com/danicrosby/digital-designer)
+[Deployed Site](digital-designer-mock-site.netlify.app)
+[Wireframes](https://www.figma.com/file/ZgmFzHFVDoEJx3iAOEx4im/Untitled?node-id=0%3A1)
+[Project Board](https://github.com/danicrosby/digital-designer)
+
 
 ### Project Screenshot
-
-
+<img width="566" alt="Screen Shot 2022-01-08 at 4 34 44 PM" src="https://user-images.githubusercontent.com/68397076/148662182-dd885b5d-5bdc-48f7-b553-db73688fadbb.png">
 
 
 ## Contributors
-- [Dani Crosby](https://github.com/danicrosby)
+[Dani Crosby](https://github.com/danicrosby)
 
 #### Photo & Design Credits: 
-- [César Rincón](https://unsplash.com/@cesarfrv93)
-- [Ellieelien](https://unsplash.com/@ellienelie)
-- [Windows](https://unsplash.com/@windows)
-- [NicePages](https://nicepage.com/)
+[César Rincón](https://unsplash.com/@cesarfrv93)
+[Ellieelien](https://unsplash.com/@ellienelie)
+[Windows](https://unsplash.com/@windows)
+[NicePages](https://nicepage.com/)
