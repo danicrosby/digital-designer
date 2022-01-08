@@ -5,9 +5,9 @@
 
 
 ## Relevant Links
-[Deployed Site](digital-designer-mock-site.netlify.app)
-[Wireframes](https://www.figma.com/file/ZgmFzHFVDoEJx3iAOEx4im/Untitled?node-id=0%3A1)
-[Project Board](https://github.com/danicrosby/digital-designer)
+- [Deployed Site : Netlify](digital-designer-mock-site.netlify.app)
+- [Wireframes: Figma](https://www.figma.com/file/ZgmFzHFVDoEJx3iAOEx4im/Untitled?node-id=0%3A1)
+- [Project Board: Github](https://github.com/danicrosby/digital-designer)
 
 
 ### Project Screenshot
@@ -15,10 +15,11 @@
 
 
 ## Contributors
-[Dani Crosby](https://github.com/danicrosby)
+- [Dani Crosby](https://github.com/danicrosby)
+
 
 #### Photo & Design Credits: 
-[César Rincón](https://unsplash.com/@cesarfrv93)
-[Ellieelien](https://unsplash.com/@ellienelie)
-[Windows](https://unsplash.com/@windows)
-[NicePages](https://nicepage.com/)
+[César Rincón: Avatar](https://unsplash.com/@cesarfrv93)
+- [Ellieelien: Content Photo 1](https://unsplash.com/@ellienelie)
+- [Windows: Content Photo 2](https://unsplash.com/@windows)
+- [NicePages: Style Guide Layout](https://nicepage.com/)
