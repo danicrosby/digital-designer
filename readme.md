@@ -5,7 +5,7 @@
 
 
 ## Relevant Links
-- [Deployed Site : Netlify](digital-designer-mock-site.netlify.app)
+- [Deployed Site : Netlify](https://digital-designer-mock-site.netlify.app/)
 - [Wireframes: Figma](https://www.figma.com/file/ZgmFzHFVDoEJx3iAOEx4im/Untitled?node-id=0%3A1)
 - [Project Board: Github](https://github.com/danicrosby/digital-designer)
 
